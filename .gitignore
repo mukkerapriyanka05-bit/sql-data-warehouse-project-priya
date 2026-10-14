@@ -10,7 +10,7 @@ Thumbs.db
 *.ldf
 *.ndf
 
-# Ignore temporary or backup files
+# Ignore temporary or  backup files
 *.log
 *.bak
 *.tmp
