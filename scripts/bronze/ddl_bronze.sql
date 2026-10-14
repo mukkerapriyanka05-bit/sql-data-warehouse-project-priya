@@ -1,4 +1,9 @@
 /*
+Author: Mukkera Priyanka
+ Modified from DataWithBaraa course for my portfolio
+*/
+
+/*
 ===============================================================================
 DDL Script: Create Bronze Tables
 ===============================================================================
